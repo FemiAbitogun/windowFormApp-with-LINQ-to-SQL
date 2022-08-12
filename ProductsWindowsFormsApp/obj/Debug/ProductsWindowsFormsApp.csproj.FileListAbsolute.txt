@@ -1,0 +1,11 @@
+C:\Users\Femi\Desktop\NET APPLICATIONS\ProductsWindowsFormsAppSolution\ProductsWindowsFormsApp\bin\Debug\ProductsWindowsFormsApp.exe.config
+C:\Users\Femi\Desktop\NET APPLICATIONS\ProductsWindowsFormsAppSolution\ProductsWindowsFormsApp\bin\Debug\ProductsWindowsFormsApp.exe
+C:\Users\Femi\Desktop\NET APPLICATIONS\ProductsWindowsFormsAppSolution\ProductsWindowsFormsApp\bin\Debug\ProductsWindowsFormsApp.pdb
+C:\Users\Femi\Desktop\NET APPLICATIONS\ProductsWindowsFormsAppSolution\ProductsWindowsFormsApp\obj\Debug\ProductsWindowsFormsApp.Properties.Resources.resources
+C:\Users\Femi\Desktop\NET APPLICATIONS\ProductsWindowsFormsAppSolution\ProductsWindowsFormsApp\obj\Debug\ProductsWindowsFormsApp.csproj.GenerateResource.cache
+C:\Users\Femi\Desktop\NET APPLICATIONS\ProductsWindowsFormsAppSolution\ProductsWindowsFormsApp\obj\Debug\ProductsWindowsFormsApp.csproj.CoreCompileInputs.cache
+C:\Users\Femi\Desktop\NET APPLICATIONS\ProductsWindowsFormsAppSolution\ProductsWindowsFormsApp\obj\Debug\ProductsWindowsFormsApp.exe
+C:\Users\Femi\Desktop\NET APPLICATIONS\ProductsWindowsFormsAppSolution\ProductsWindowsFormsApp\obj\Debug\ProductsWindowsFormsApp.pdb
+C:\Users\Femi\Desktop\NET APPLICATIONS\ProductsWindowsFormsAppSolution\ProductsWindowsFormsApp\obj\Debug\ProductsWindowsFormsApp.MainPage.resources
+C:\Users\Femi\Desktop\NET APPLICATIONS\ProductsWindowsFormsAppSolution\ProductsWindowsFormsApp\obj\Debug\ProductsWindowsFormsApp.csproj.AssemblyReference.cache
+C:\Users\Femi\Desktop\NET APPLICATIONS\ProductsWindowsFormsAppSolution\ProductsWindowsFormsApp\obj\Debug\ProductsWindowsFormsApp.Create.resources
